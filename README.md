@@ -1,2 +1,2 @@
 # coaching16
-# Custom Domain (Route53) confi gured with public ACM Cert
+# Custom Domain (Route53) configured with public ACM Cert
